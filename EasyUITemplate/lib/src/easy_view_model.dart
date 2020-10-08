@@ -9,7 +9,7 @@ enum SectionType {
   video,  //视频
   md,
   html,
-  card,　　　//纯卡片
+  card,//纯卡片
   ruby,     //日语ふりがな
   topImageCard,
   bottomImageCard,
